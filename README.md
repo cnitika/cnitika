@@ -1,10 +1,34 @@
-👋 Hi, I’m @cnitika
-- 👀 I’m interested in new things
-- 🌱 I’m currently learning new skills
-- 💞️ I’m looking to collaborate on technology
-- 📫 How to reach me ...
 
-<!---
-cnitika/cnitika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Niti Sharma
+
+🎓 BTech CSE Student | 💻 Python Developer | 🤖 AI & Cybersecurity Enthusiast
+
+---
+
+## 🌟 About Me
+
+- 🔭 Working on AI tools, automation, and voice-controlled assistants  
+- 🌱 Learning AI, Linux, Streamlit, and cybersecurity  
+- 💬 Ask me about Python, GitHub, or tech projects  
+- 📫 Email: your-email@example.com  
+- 🌍 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/nitika-k-08bb4135a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+## 🚀 Skills
+
+- Python, Streamlit, Flask  
+- Git, GitHub, Linux  
+- AI, Automation, OpenCV, Voice Recognition  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cnitika&show_icons=true&theme=default)
+
+---
+
+## 🔗 Let's Connect
+
+[GitHub](https://github.com/cnitika) | [LinkedIn](https://www.linkedin.com/in/nitika-k-08bb4135a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
