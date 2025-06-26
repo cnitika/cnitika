@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Niti Sharma
+# 👋 Hi, I'm Nitika Kailrawna
 
 🎓 BTech CSE Student | 💻 Python Developer | 🤖 AI & Cybersecurity Enthusiast
 
