@@ -10,7 +10,7 @@
 - 🔭 Building REST APIs with Flask and Django
 - 🐳 Hands-on with Docker, PostgreSQL, CI/CD, and basic high availability
 - 🌱 Learning Data Structures & Algorithms, Django REST Framework, AWS basics, and Kubernetes
-- 💼 Open to Backend Developer / Python Developer internship opportunities (Remote)
+- 💼 Open to Backend Developer / Python Developer and testing opportunities (Remote)
 - 💬 Ask me about Python, Flask, Docker, PostgreSQL, or REST API design
 
 ---
